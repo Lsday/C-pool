@@ -1,0 +1,5 @@
+Credentials cache: API:4511
+        Principal: oronda@42NICE.FR
+
+  Issued                Expires               Principal
+Jul  6 12:46:55 2021  Jul  6 22:46:55 2021  krbtgt/42NICE.FR@42NICE.FR

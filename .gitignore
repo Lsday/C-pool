@@ -1,0 +1,4 @@
+custom
+.vscode
+*.out
+*.o

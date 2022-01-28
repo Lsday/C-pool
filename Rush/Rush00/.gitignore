@@ -1,0 +1,15 @@
+.DS_Store
+.Spotlight-V100
+.vscode
+gitcommit.sh
+gitpush.sh
+template.c
+test.c
+*.txt
+*.diff
+*old_shitty_code.c
+*old.c
+*.out
+*.swp
+*.dSYM
+*.json
